@@ -1,6 +1,7 @@
 /*
 	@rajujnvgupta
 	26/dec/2019
+*/
 //each character of patter should be at least once into window of str
 
 #include<bits/stdc++.h>
